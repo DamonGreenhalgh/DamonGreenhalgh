@@ -45,4 +45,5 @@ I'm a **Computer Science** and **Applied Mathematics** Graduate from the *Univer
 
 <br />
 
-![Damon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DamonGreenhalgh&show_icons=true&theme=default&rank_icon=github)
+<!-- ![Damon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DamonGreenhalgh&show_icons=true&theme=default&rank_icon=default) -->
+![Damon's GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DamonGreenhalgh&theme=default) 
