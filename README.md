@@ -1,6 +1,6 @@
 ### Hi! I'm Damon! 👋 
 
-I'm a **Computer Science** and **Applied Mathematics** Graduate from the *University of Auckland* looking for opportunities to deepen their knowledge of software development. Passionate about tech, motivated to learn and eager to collaborate with a team of amazing people. When i'm not coding I like to paint :art:, go out for walks :deciduous_tree: or just hang out with friends :video_game:.
+I'm a **Computer Science** and **Applied Mathematics** Graduate from the *University of Auckland* looking for opportunities to deepen their knowledge of software development. Passionate about tech, motivated to learn and eager to collaborate with a team of amazing people. When i'm not coding I like to paint :art:, play guitar :guitar:, go out for walks :deciduous_tree: or just hang out with friends :video_game:.
 
 > 💻 I’m currently working on [XIV Tracker](https://www.xivtracker.gg/), a web app to track cool statstics for characters in ***Final Fantasy XIV***. Below are some previews of the app, but feel free to check it out yourself with the link above!
 
